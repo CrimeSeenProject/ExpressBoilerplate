@@ -1,6 +1,6 @@
 {
   "name": "@lodington/expressboilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple boilerplate for setting up an Express.js app",
   "main": "index.js",
   "author": "Tyler Souza",

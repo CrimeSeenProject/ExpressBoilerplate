@@ -89,13 +89,6 @@ module.exports.https = function(app, port, keypath)
 
 module.exports.start = function(app)
 {
-	console.log('----------------------------------------------');
-	console.log('----------------------------------------------');
-	console.log('--------------------SERVER--------------------');
-	console.log('------------------RESTARTING------------------');
-	console.log('----------------------------------------------');
-	console.log('----------------------------------------------');
-
 	if (http === undefined) http = require('http').createServer(app);
 
 	http.listen(app.get('http_port'), function () {
