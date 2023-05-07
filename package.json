@@ -1,18 +1,25 @@
 {
-    "name": "@Lodington/expressBoilerplate",
-    "version": "1.0.0",
-    "description": "Simple boilerplate for setting up an Express.js app",
-    "main": "index.js",
-    "author": "Tyler Souza",
-    "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/CrimeSeenProject/ExpressBoilerplate.git"
-    },
-    "dependencies": {
-      "connect-mongo": "^4.4.1",
-      "express": "^4.17.1",
-      "express-session": "^1.17.1",
-      "moment": "^2.29.1"
-    }
+  "name": "@lodington/expressboilerplate",
+  "version": "1.0.0",
+  "description": "Simple boilerplate for setting up an Express.js app",
+  "main": "index.js",
+  "author": "Tyler Souza",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CrimeSeenProject/ExpressBoilerplate.git"
+  },
+  "dependencies": {
+    "connect-mongo": "^4.4.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "moment": "^2.29.1"
+  },
+  "bugs": {
+    "url": "https://github.com/CrimeSeenProject/ExpressBoilerplate/issues"
+  },
+  "homepage": "https://github.com/CrimeSeenProject/ExpressBoilerplate#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
+}
