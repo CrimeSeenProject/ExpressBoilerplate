@@ -1,13 +1,13 @@
 {
-    "name": "@braitsch/express",
-    "version": "1.2.7",
+    "name": "@Lodington/expressBoilerplate",
+    "version": "1.0.0",
     "description": "Simple boilerplate for setting up an Express.js app",
     "main": "index.js",
-    "author": "Stephen Braitsch",
+    "author": "Tyler Souza",
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "git+ssh://git@github.com/braitsch/express.git"
+      "url": "git+ssh://git@github.com/CrimeSeenProject/ExpressBoilerplate.git"
     },
     "dependencies": {
       "connect-mongo": "^4.4.1",
